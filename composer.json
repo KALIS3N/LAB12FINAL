@@ -1,0 +1,15 @@
+{
+    "name": "miss/ipt10-lab12",
+    "autoload": {
+        "psr-4": {
+            "Miss\\Ipt10Lab12\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "S4NG4L4NG",
+            "email": "sangalang.leandro@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
